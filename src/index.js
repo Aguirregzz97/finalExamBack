@@ -14,5 +14,5 @@ app.use(cors())
 
 
 app.listen(port, function() {
-  console.log('Server up and running on port ' + port)
+  console.log('Server up and running on port new ' + port)
 })
